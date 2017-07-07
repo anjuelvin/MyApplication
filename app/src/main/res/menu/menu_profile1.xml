@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.anju.angelwatches.ProfileActivity">
+
+
+    <item
+        android:id="@+id/action_item2"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="Our store"/>
+
+
+
+</menu>
+
+
